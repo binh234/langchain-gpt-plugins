@@ -1,6 +1,6 @@
 # LangChain + ChatGPT Plugins playground
 
-This is a demo for the ChatGPT Plugins LangChain usecase.
+This is a demo for the [ChatGPT Plugins LangChain usecase](https://python.langchain.com/en/latest/modules/agents/tools/examples/chatgpt_plugins.html).
 
 **Note**: Be aware that it currently only works with plugins that do not require auth.
 
